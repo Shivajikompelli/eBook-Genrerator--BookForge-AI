@@ -2,3 +2,16 @@
 credentials/
 *.json
 *.bak
+
+
+# Ignore sensitive and unnecessary files
+credentials/
+*.json
+*.bak
+*.env
+__pycache__/
+.env/
+venv/
+*.log
+*.pyc
+.DS_Store
