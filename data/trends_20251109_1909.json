@@ -1,0 +1,52 @@
+[
+  {
+    "topic": "aston villa vs bournemouth",
+    "score": 30,
+    "reason": "Highly time-sensitive sports event. Content potential and monetization are high for a short period, but long-term SEO performance is very low as interest quickly fades post-match."
+  },
+  {
+    "topic": "nottm forest vs leeds united",
+    "score": 30,
+    "reason": "Similar to the above, this is a time-sensitive sports fixture. High short-term interest for match-related content and betting, but minimal long-term SEO value once the event concludes."
+  },
+  {
+    "topic": "kocaelispor vs galatasaray",
+    "score": 30,
+    "reason": "Another specific, time-bound football match. While it offers short-term content opportunities (previews, live updates) and some monetization, it has very limited evergreen or long-term SEO potential."
+  },
+  {
+    "topic": "women's premier league",
+    "score": 85,
+    "reason": "An ongoing and growing sports league. Offers high content potential (news, player profiles, standings), strong monetization (ads, sports betting, merchandise), and excellent long-term SEO as interest is sustained across seasons."
+  },
+  {
+    "topic": "csjmu",
+    "score": 60,
+    "reason": "Likely an educational institution (Chhatrapati Shahu Ji Maharaj University). Niche but stable audience. Content potential for admissions, results, campus news. Moderate monetization, and consistent long-term SEO performance for a specific demographic."
+  },
+  {
+    "topic": "atp finals",
+    "score": 75,
+    "reason": "A major annual tennis tournament. Offers high content potential (analysis, player features, historical data) and strong seasonal monetization. Good long-term SEO as it's a recurring, prestigious event with consistent yearly search spikes."
+  },
+  {
+    "topic": "belgian pro league",
+    "score": 80,
+    "reason": "An ongoing national football league. Provides consistent content opportunities (match reports, standings, team news) and high monetization from ads and sports betting. Excellent long-term SEO performance due to continuous interest throughout the year."
+  },
+  {
+    "topic": "साप्ताहिक राशिफल तुला",
+    "score": 90,
+    "reason": "Evergreen and recurring content ('Weekly Horoscope Libra'). High content potential with consistent demand, strong monetization (ads, spiritual products), and exceptional long-term SEO performance due to predictable weekly search volume."
+  },
+  {
+    "topic": "mcdonald's",
+    "score": 95,
+    "reason": "A global brand with immense content potential (menus, nutrition, locations, news, cultural impact). Extremely high monetization via ads and local SEO. Unrivaled long-term SEO performance due to its universal recognition and constant search volume."
+  },
+  {
+    "topic": "india vs sa a unofficial test",
+    "score": 20,
+    "reason": "A highly specific, time-limited, and relatively niche sports match ('A' team test). Content potential and monetization are low to moderate and short-lived. Long-term SEO performance is very poor."
+  }
+]

@@ -1,0 +1,74 @@
+# Core dependencies
+python-dotenv==1.0.1
+requests==2.31.0
+beautifulsoup4==4.12.2
+fpdf2==2.7.9
+pillow==10.2.0
+
+# AI and NLP
+google-generativeai==0.5.2
+tiktoken==0.7.0
+
+# JSON and data handling
+pandas==2.2.0
+numpy==1.26.3
+
+# Google Drive integration
+google-api-python-client==2.120.0
+google-auth==2.26.1
+google-auth-oauthlib==1.2.0
+
+# Utilities
+tqdm==4.66.2
+urllib3==2.2.1
+colorama==0.4.6
+
+# Optional (for scheduling & automation)
+schedule==1.2.1
+
+Structure
+
+bookforge-ai/
+│
+├── agents/
+│   ├── trend_detector.py
+│   ├── seo_analyzer.py
+│   ├── ebook_generator.py
+│   ├── pdf_generator.py
+│   ├── cover_generator.py
+│   ├── drive_uploader.py
+│   └── automation_scheduler.py
+│
+├── assets/
+│   ├── DejaVuSans.ttf
+│   ├── DejaVuSans-Bold.ttf
+│   ├── DejaVuSans-Oblique.ttf
+│
+├── data/
+│   ├── ebooks/
+│   ├── outlines/
+│   ├── covers/
+│   ├── pdfs/
+│
+├── logs/
+│   └── bookforge.log
+│
+├── .env
+├── main.py
+├── requirements.txt
+└── service_account.json (optional for Drive)
+
+
+# command to run dependencies
+pip install -r requirements.txt
+
+
+## cmd to run main
+python main.py
+
+# view logs
+notepad logs/bookforge.log
+
+
+#stop auto loop
+ctrl-c
