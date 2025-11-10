@@ -1,0 +1,4 @@
+# Ignore credentials and secrets
+credentials/
+*.json
+*.bak
